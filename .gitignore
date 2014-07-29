@@ -1,3 +1,4 @@
+*.h5
 *.pyc
 *.swp
 .ipynb_checkpoints
