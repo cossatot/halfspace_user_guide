@@ -1,3 +1,0 @@
-This is just a file to allow the folder to be tracked w/ git.
-We don't want to track the h5 files that will be placed in here,
-but we do want to keep a folder w/ this path in version control.
